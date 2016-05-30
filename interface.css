@@ -61,12 +61,7 @@
     link-decoration: none;
 }
 .finisherLogoDiv {
-    color: #dddddd;
     position: relative;
-    font-family: monospace, monospace;
-    font-size: 45px;
-    border-style: outset outset outset outset;
-    border-radius: 7px;
     text-align: center;
     letter-spacing: 15px;
     border-color: #dddddd;
